@@ -1,21 +1,22 @@
-# Hi, I'm [B1ackGlasses] 👋
+# Hi, I'm B1ackGlasses 👋
 
-> 同济大学23级计算机学院信息安全本科生 | AI + Security 方向探索者  
+> 同济大学 信息安全本科生 | AI + Security 方向探索者  
 > 当前聚焦：LLM 代码漏洞自动修复 / AI 安全 / 自动化漏洞挖掘
 
 ## 🧭 关于我
 
-- 🎓 **教育**：同济大学 计算机科学与技术学院 信息安全 本科（2023 级）
+- 🎓 **教育**：同济大学 计算机科学与技术学院 2023级 信息安全 
 - 🎯 **方向**：AI for Security & Security for AI
-- 🚩 **CTF**：校内 CatTrainingForce CTF 战队成员，参与了强网杯、网鼎杯、ISCC 等赛事
+- 🚩 **CTF**：同济 CatTrainingForce CTF 战队成员，参与了强网杯、网鼎杯、ISCC 等赛事
 - 🌱 **正在学习**：LLM 安全、程序分析、自动化程序修复、AI Red Teaming
 - 📫 **联系**：19117172687@163.com 
 
 ## 🛠 技术栈
 
 **编程语言**  
-Python
-C/C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **安全工具**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
